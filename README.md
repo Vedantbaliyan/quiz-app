@@ -27,3 +27,5 @@ This app allows users to attempt quizzes, view their scores, and learn in a fun 
 ```bash
 git clone https://github.com/Vedantbaliyan/quiz-app.git
 cd quiz-app
+npm i
+npm run dev
