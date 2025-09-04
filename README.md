@@ -25,5 +25,5 @@ This app allows users to attempt quizzes, view their scores, and learn in a fun 
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/priya-123kumari/quiz-app.git
+git clone https://github.com/Vedantbaliyan/quiz-app.git
 cd quiz-app
